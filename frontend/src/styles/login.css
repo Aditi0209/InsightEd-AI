@@ -1,0 +1,153 @@
+.login-container{
+
+    display:flex;
+
+    min-height:100vh;
+
+}
+
+.login-left{
+
+    flex:1;
+
+    background:linear-gradient(
+        135deg,
+        #2563eb,
+        #4f46e5
+    );
+
+    color:white;
+
+    display:flex;
+
+    flex-direction:column;
+
+    justify-content:center;
+
+    padding:80px;
+
+}
+
+.login-left h1{
+
+    font-size:52px;
+
+    margin-bottom:25px;
+
+}
+
+.login-left p{
+
+    font-size:20px;
+
+    line-height:1.7;
+
+    margin-bottom:40px;
+
+    max-width:520px;
+
+}
+
+.login-left ul{
+
+    list-style:none;
+
+}
+
+.login-left li{
+
+    margin-bottom:20px;
+
+    font-size:18px;
+
+}
+
+.login-right{
+
+    flex:1;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    background:#f8fafc;
+
+}
+
+.login-card{
+
+    width:420px;
+
+    background:white;
+
+    padding:45px;
+
+    border-radius:18px;
+
+    box-shadow:0 15px 40px rgba(0,0,0,.08);
+
+}
+
+.login-card h2{
+
+    margin-bottom:35px;
+
+    color:#2563eb;
+
+    text-align:center;
+
+}
+
+.login-card input{
+
+    width:100%;
+
+    padding:16px;
+
+    margin-bottom:25px;
+
+    border-radius:10px;
+
+    border:1px solid #d1d5db;
+
+    font-size:16px;
+
+}
+
+.login-card input:focus{
+
+    outline:none;
+
+    border-color:#2563eb;
+
+}
+
+.login-card button{
+
+    width:100%;
+
+    padding:16px;
+
+    background:#2563eb;
+
+    color:white;
+
+    border:none;
+
+    border-radius:10px;
+
+    font-size:17px;
+
+    font-weight:bold;
+
+    transition:.3s;
+
+}
+
+.login-card button:hover{
+
+    background:#1d4ed8;
+
+}

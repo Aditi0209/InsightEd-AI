@@ -1,0 +1,30 @@
+MATHEMATICS EXAM TIPS
+
+Chapter: Sets
+
+A Set is a well-defined collection of objects.
+
+Types of Sets:
+
+1. Empty Set
+2. Finite Set
+3. Infinite Set
+4. Equal Sets
+5. Equivalent Sets
+
+Important Symbols:
+
+∈  belongs to
+∉  does not belong to
+⊂  subset
+⊆  subset or equal to
+
+Common Mistakes:
+
+- Confusing subset and proper subset.
+- Forgetting braces while writing sets.
+
+Exam Strategy:
+
+Write definitions exactly as given in NCERT.
+Practice Venn diagram questions regularly.

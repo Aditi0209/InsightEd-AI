@@ -1,0 +1,68 @@
+# Backend
+fastapi
+uvicorn
+
+# Environment
+python-dotenv
+
+# Validation
+pydantic
+
+# Database
+pymongo
+
+# LangChain
+langchain
+langchain-core
+langchain-community
+
+# LangGraph
+langgraph
+
+# Groq
+groq
+langchain-groq
+
+# Vector DB
+qdrant-client
+
+# PDF Processing
+pypdf
+
+# Tokenization
+tiktoken
+
+# Evaluation
+ragas
+
+# Data Processing
+pandas
+numpy
+
+# File Upload Support
+python-multipart
+
+# Testing
+pytest
+
+sentence-transformers
+faiss-cpu
+
+ 
+langchain-qdrant
+langchain-huggingface
+
+
+datasets
+langchain-google-vertexai
+llama-index-core
+scikit-learn
+
+python-docx 
+unstructured 
+markdown
+
+python-jose[cryptography]
+passlib==1.7.4
+bcrypt==4.0.1
+python-multipart

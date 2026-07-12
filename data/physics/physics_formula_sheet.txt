@@ -1,0 +1,28 @@
+PHYSICS FORMULA SHEET
+
+Motion in a Straight Line
+
+Speed = Distance / Time
+
+Average Speed = Total Distance / Total Time
+
+Velocity = Displacement / Time
+
+Acceleration = Change in Velocity / Time
+
+Equation of Motion:
+
+v = u + at
+
+s = ut + 1/2 at^2
+
+v^2 = u^2 + 2as
+
+Important Notes:
+
+Speed is a scalar quantity.
+Velocity is a vector quantity.
+Acceleration can be positive or negative.
+
+Exam Tip:
+Always check units before solving numerical problems.
